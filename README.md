@@ -31,3 +31,6 @@ Here are some ideas to get you started:
 - Objective-C, Swift, SwiftUI
 - Java, Kotlin
 - ExtJS, Dart, JavaScript, Node.js, PHP
+
+[![minjun's github stats](https://github-readme-stats.vercel.app/api?username=hlkim&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
