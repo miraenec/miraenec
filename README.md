@@ -28,3 +28,6 @@ Here are some ideas to get you started:
 -->
 
 ##  Tech Stack
+- Objective-C, Swift, SwiftUI
+- Java, Kotlin
+- ExtJS, Dart, JavaScript, Node.js, PHP
