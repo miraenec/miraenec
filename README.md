@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
   <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sencha-86BC40?sytle=flat-square&logo=Sencha%logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sencha-86BC40?style=flat-square&logo=Sencha%logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-efd919?style=flat-square&logo=JavaScript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-ea8035?style=flat-square&logo=HTML5&logoColor=white"/> 
   <img src="https://img.shields.io/badge/CSS3-146eb0?style=flat-square&logo=CSS3&logoColor=white"/>
