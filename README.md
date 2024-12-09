@@ -1,7 +1,8 @@
-# Minjun Kim 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhlkim&count_bg=%233D82CA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+# Minjun Kim 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmiraenec&count_bg=%233D82CA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <p>
   <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
   <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sencha-86BC40?style=flat-square&logo=Sencha&logoColor=white"/>
@@ -13,7 +14,7 @@
 </p> 
 
 <!--
-**hlkim/hlkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**miraenec/miraenec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -30,7 +31,7 @@ Here are some ideas to get you started:
 ##  Tech Stack
 - Objective-C, Swift, SwiftUI
 - Java, Kotlin
-- ExtJS, Dart, JavaScript, Node.js, PHP
+- React, Vue.JS, ExtJS, Dart, JavaScript, Node.js, PHP
 
-[![minjun's github stats](https://github-readme-stats.vercel.app/api?username=hlkim&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![minjun's github stats](https://github-readme-stats.vercel.app/api?username=miraenec&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
