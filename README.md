@@ -2,10 +2,8 @@
 
 Mobile App Developer · Product Builder · Entrepreneur
 
-<p>
-  <a href="https://github.com/miraenec">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmiraenec&count_bg=%233D82CA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="hits"/>
-  </a>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=miraenec&label=Profile%20Views&color=3D82CA&style=flat-square" alt="Profile views" />
 </p>
 
 ## About Me
@@ -73,13 +71,13 @@ I build mobile and web products with a focus on practical execution, scalable ar
 
 ## GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=miraenec&show_icons=true&theme=default&hide_border=true" alt="Minjun Kim's GitHub stats"/>
+## GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats-nine-red-47azvwfkwx.vercel.app/api?username=miraenec&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400" alt="Minjun Kim's GitHub stats" />
+  <img height="170" src="https://github-readme-stats-nine-red-47azvwfkwx.vercel.app/api/top-langs/?username=miraenec&layout=compact&theme=transparent&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" />
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miraenec&layout=compact&hide_border=true" alt="Top Languages"/>
-</p>
 
 ---
 
