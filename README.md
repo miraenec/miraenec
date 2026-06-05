@@ -1,6 +1,6 @@
 # Minjun Kim 👋
 
-Mobile App Developer · Product Builder · Entrepreneur
+Web/Mobile App Developer · Product Builder · Entrepreneur
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=miraenec&label=Profile%20Views&color=3D82CA&style=flat-square" alt="Profile views" />
