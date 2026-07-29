@@ -71,8 +71,6 @@ I build mobile and web products with a focus on practical execution, scalable ar
 
 ## GitHub Stats
 
-## GitHub Stats
-
 <p align="left">
   <img height="170" src="https://github-readme-stats-nine-red-47azvwfkwx.vercel.app/api?username=miraenec&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400" alt="Minjun Kim's GitHub stats" />
   <img height="170" src="https://github-readme-stats-nine-red-47azvwfkwx.vercel.app/api/top-langs/?username=miraenec&layout=compact&theme=transparent&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" />
